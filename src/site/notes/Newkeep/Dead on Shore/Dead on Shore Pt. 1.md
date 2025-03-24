@@ -1,26 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/dead-on-shore/dead-on-shore-pt-1/","created":"2025-03-24T07:48:40.726+05:30","updated":"2025-03-24T07:58:03.650+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/dead-on-shore/dead-on-shore-pt-1/","created":"2025-03-24T07:48:40.726+05:30","updated":"2025-03-24T08:12:14.980+05:30"}
 ---
 
-# 1 Dead on the Shores - Episode 1 "Death on the Pawluck river"
+Having been hired by the promising merchant Jarett as escorts on his ship to Faw's Luck, we embarked on a journey where we met the crew and experienced an "accidental" ship damaging incident. The river itself was disturbingly empty of small fish and littered with destroyed vessels. Our journey involved successfully fighting off two enormous catfishes before encountering a river monster, which we managed to drive away through teamwork. Ultimately, we completed our escort mission, marking the beginning of what promises to be a series of adventures with our newfound companions.
 
-- Met Jarett an up and coming merchant ; he hired us as escorts on his ship sailing to Faw's luck.
-- Met the crew, ship ended up taking damage "accidentally".
-- River was devoid of small fish life, and the bed was fillled with the wreckage of destroyed vessels.
-- Encountered two very large catfishes, we dispatched of them eventually.
-- Shortly encountered the river monster..Through our combined efforts we were able to drive it off.
-- We completed the escort mission , the first of many with my newly found friends.
+**Quest:** https://discord.com/channels/1278898468970299523/1278900408361680916/1285632055090352251
 
-## Game Information
-
-**Region:** Pawluck River, (18,19.5)  [[Newkeep\|Newkeep]]
-**DM:** @S | Laura | Annamede 
-**Players:**
-- @P | Firenze | Nero Drake
-- @S | Tide | Kushal Looper
-- @P | Dante | MoonShade Alfeo
-- @P | Azaian | Yodament Arcius
-- @Dragunov | Ben
-
-**Quest:** [⁠https://discord.com/channels/1278898468970299523/1278900408361680916/1285632055090352251]
+Summary:  
+(https://discord.com/channels/1278898468970299523/1278900431182893157/1285665388629196852)
 
