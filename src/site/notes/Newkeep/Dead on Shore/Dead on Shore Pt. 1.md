@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/dead-on-shore/dead-on-shore-pt-1/","created":"2025-03-24T07:48:40.726+05:30","updated":"2025-03-24T07:56:49.869+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/dead-on-shore/dead-on-shore-pt-1/","created":"2025-03-24T07:48:40.726+05:30","updated":"2025-03-24T07:58:03.650+05:30"}
 ---
 
 # 1 Dead on the Shores - Episode 1 "Death on the Pawluck river"
@@ -13,9 +13,9 @@
 
 ## Game Information
 
-**Region:** Pawluck River, (18,19.5) 
-**DM:** @S | Laura | Annamede **Players:**
-
+**Region:** Pawluck River, (18,19.5)  [[Newkeep\|Newkeep]]
+**DM:** @S | Laura | Annamede 
+**Players:**
 - @P | Firenze | Nero Drake
 - @S | Tide | Kushal Looper
 - @P | Dante | MoonShade Alfeo
