@@ -10,6 +10,6 @@ Summaries and Connections of The Quests from "Grayhawk Lives by SmokeBomb Studio
 -Maintained by TinyCop
 
 Browse by Location:
-1. [[Newkeep/Newkeep\|Newkeep]]
+1. [[Newkeep\|Newkeep]]
 2. 
 3. 
