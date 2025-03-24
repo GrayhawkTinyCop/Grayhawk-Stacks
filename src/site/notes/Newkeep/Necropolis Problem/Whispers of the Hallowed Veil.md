@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/necropolis-problem/whispers-of-the-hallowed-veil/","created":"2025-03-24T10:26:19.908+05:30","updated":"2025-03-24T10:28:33.349+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/necropolis-problem/whispers-of-the-hallowed-veil/","updated":"2025-03-24T10:28:33.349+05:30"}
 ---
 
 After a brief introduction, we examined the well-written message and resolved to travel to the village. On our way, we encountered a bear wounded by poisoned arrows, which we subdued to administer first aid. Upon reaching the village, we met Cherie, a devotee of Nergal, who informed us about an attack that resulted in the theft of their grain. We observed that the village had a strong sense of tribal community. Cherie then requested our assistance in entering the Necropolis within their graveyard to perform a ritual for the departed ancestors. This led us to the discovery that the Necropolis had been desecrated, and the Great Feather had been stolen by the same attackers who raided the village, all while we defended against hordes of undead spirits.

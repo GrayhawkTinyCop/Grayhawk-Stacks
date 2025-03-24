@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/newkeep/","created":"2025-03-23T17:51:29.311+05:30","updated":"2025-03-24T10:22:56.279+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/newkeep/","updated":"2025-03-24T10:22:56.279+05:30"}
 ---
 
 Following is a Cluster of Summaries of the Quests that took place in the Region under Newkeep
