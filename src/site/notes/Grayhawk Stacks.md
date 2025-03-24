@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grayhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-24T11:05:00.420+05:30"}
+{"dg-publish":true,"permalink":"/grayhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-25T01:11:25.296+05:30"}
 ---
 
 Coming Soon ~!
@@ -10,4 +10,5 @@ Summaries and Connections of The Quests from "Grayhawk Lives by SmokeBomb Studio
 -Maintained by TinyCop
 
 Browse by Location:
-1. 
+1. [[Newkeep/Newkeep\|Newkeep]]
+2. 
