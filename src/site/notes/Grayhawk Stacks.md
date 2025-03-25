@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grayhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-26T03:12:06.858+05:30"}
+{"dg-publish":true,"permalink":"/grayhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-26T03:39:48.912+05:30"}
 ---
 
 Coming Soon ~!
@@ -7,7 +7,7 @@ Coming Soon ~!
 Summaries and Connections of The Quests from "Grayhawk Lives by SmokeBomb Studios"
 
 
--Maintained by TinyCop
+-Maintained by Lore-Keepers
 
 Browse by Location:
 1. [[Region of Pelsand\|Region of Pelsand]]
