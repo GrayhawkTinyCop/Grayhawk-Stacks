@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/barony-vicroc/forgotten-crypt/forgotten-crypt/","updated":"2025-03-25T04:28:20.711+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/barony-vicroc/forgotten-crypt/forgotten-crypt/","updated":"2025-03-25T12:34:26.879+05:30"}
 ---
 
 Story so far:

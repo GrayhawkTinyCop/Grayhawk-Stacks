@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/newkeep-city/dead-on-shore/dead-on-shore-pt-3/","updated":"2025-03-25T04:39:40.036+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/newkeep-city/dead-on-shore/dead-on-shore-pt-3/","updated":"2025-03-25T12:20:07.411+05:30"}
 ---
+
+# Dead on Shore Pt. 3
 
 The party met with Jarred the Merchant and were introduced to Kingfisher, who would be joining their expedition to eliminate the river monsters. They decided to walk towards the river, and as they approached, Kingfisher began making frog-like sounds. This immediately caused a nearby Neovik to be swarmed by frogs. While the party was dealing with the sudden frog attack, a large toad emerged from the water and landed in their midst. The toad managed to knock down Viggi by swinging Neovik as a bludgeon. Fortunately, Silas swiftly dispatched the creature with a well-aimed arrow to the head.
 

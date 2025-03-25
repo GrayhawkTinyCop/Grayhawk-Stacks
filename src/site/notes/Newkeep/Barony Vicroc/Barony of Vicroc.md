@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/barony-vicroc/barony-of-vicroc/","updated":"2025-03-25T07:57:57.282+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/barony-vicroc/barony-of-vicroc/","tags":["Location"],"updated":"2025-03-25T12:36:14.293+05:30"}
 ---
 
 # Barony of Viceroc  

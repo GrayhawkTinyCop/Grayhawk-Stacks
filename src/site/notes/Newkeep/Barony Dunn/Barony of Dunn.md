@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/barony-dunn/barony-of-dunn/","updated":"2025-03-25T07:48:04.822+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/barony-dunn/barony-of-dunn/","tags":["Location"],"updated":"2025-03-25T12:36:02.346+05:30"}
 ---
 
 # Village Dunn  
