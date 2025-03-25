@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grayhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-25T08:41:33.487+05:30"}
+{"dg-publish":true,"permalink":"/grayhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-26T03:12:06.858+05:30"}
 ---
 
 Coming Soon ~!
@@ -11,5 +11,7 @@ Summaries and Connections of The Quests from "Grayhawk Lives by SmokeBomb Studio
 
 Browse by Location:
 1. [[Region of Pelsand\|Region of Pelsand]]
-2. 
-3. 
+2. Region of Esparithan 
+3. Region of Pawluck Valley
+4. Region of Hollow Highlands
+5. Region of Dalmond
