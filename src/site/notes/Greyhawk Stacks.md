@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/greyhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-26T03:43:34.082+05:30"}
+{"dg-publish":true,"permalink":"/greyhawk-stacks/","tags":["gardenEntry"],"updated":"2025-03-26T04:28:36.703+05:30"}
 ---
 
 Coming Soon ~!
 
- Tales from "Greyhawk Lives by SmokeBomb Studios"
+Tales from "Greyhawk Lives by SmokeBomb Studios"
 
 
 -Maintained by Lore-Keepers

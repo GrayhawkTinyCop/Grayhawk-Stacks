@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/newkeep-city/kobolds/kobolds-pt-1/","updated":"2025-03-25T12:16:14.461+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/newkeep-city/kobolds/kobolds-pt-1/","updated":"2025-03-26T04:25:34.006+05:30"}
 ---
+
+# Kobolds Pt. 1
 
 After introducing themselves to one another, the party embarked on their mission to retrieve supplies that had been stolen by Kobolds. Their journey along the road led them to a clearing where they encountered wild sheep or rams grazing peacefully. Further down the road, they discovered a ransacked cart, clearly indicating the Kobolds' passage. Footprints and a trail of scattered supplies pointed the way towards a nearby cave.
 

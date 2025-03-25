@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/newkeep/newkeep-city/goblin-rider/the-highlands-in-peril/","updated":"2025-03-24T10:25:12.960+05:30"}
+{"dg-publish":true,"permalink":"/newkeep/newkeep-city/goblin-rider/the-highlands-in-peril/","updated":"2025-03-26T04:24:56.457+05:30"}
 ---
+
+# The Highlands in Peril
 
 Receiving word of bandits terrorizing a nearby village, we ventured into the forest. During our exploration, one of our larger companions inadvertently triggered goblin-laid traps. Following another set of traps, we cleverly used them against the bandits. After a successful fight, we defeated the bandits, uncovering a single clue: "The Crimson Lord."
 
